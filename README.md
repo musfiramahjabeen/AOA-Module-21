@@ -1,4 +1,4 @@
-# AOA-Module-21
+# AOA Module-21
 ## Day 1 - Knight Tour & Count Path
 ### Write a python program to implement knight tour problem using warnsdorff's algorithm
 ```py
