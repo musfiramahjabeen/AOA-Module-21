@@ -5,7 +5,7 @@
 KNIGHT_MOVES = [(2, 1), (1, 2), (-1, 2), (-2, 1), (-2, -1), (-1, -2), (1, -2), (2, -1)]
 class KnightTour:
     def __init__(self, board_size):
-        self.board_size = board_size  # tuple
+        self.board_size = board_size  # tuple 
         self.board = []
         for i in range(board_size[0]):
             temp = []
